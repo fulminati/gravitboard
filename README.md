@@ -2,7 +2,7 @@
 
 > Chessboard built with [Gravit Designer](https://www.designer.io/)
 
-![GravitBoard](dist/gravitboard-classic-480px.png)
+![GravitBoard](dist/gravitboard-classic.png)
 
 ## Colors
 
